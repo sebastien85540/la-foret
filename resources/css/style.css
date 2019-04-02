@@ -1,0 +1,31 @@
+/*        INFORMATIONS
+
+    - DOCUMENT: La forêt
+    - VERSION:  1.0.0
+    - AUTHOR:   Sebastien REYNAUD
+*/
+/*           STYLES
+
+    - DEFAULT: 
+    - H1:
+
+*/
+
+/*            FONTS
+
+    - DEFAULT:
+
+*/
+
+/*==========================================GENERALY===============================================*/                                          
+body{
+    background-image: url(../images/foret.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+}
+h1{
+    color: #fff;
+    text-align: center;
+}
