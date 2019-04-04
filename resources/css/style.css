@@ -28,6 +28,7 @@ header{
 }
 .block{
     margin-bottom: 0 !important;
+    padding-top: 2%;
 }
 h1{
     color: #fff !important;
@@ -49,6 +50,7 @@ img{
     background-color: rgb(185, 250, 176);
     height: 100%;
     text-align: center;
+
 }
 .champignons{
     background-image: url(../images/forest.webp);
@@ -57,13 +59,31 @@ img{
     text-align: center;
 }
 h3{
-    padding-top: 2%;
     background-color: #fff;
-    margin-left: 260px;
-    margin-right: 260px;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
 }
 .animaux{
     background-image: url(../images/background.webp);
     background-size: cover;
+}
+h1, h2, h3{
+    text-transform: uppercase;
+}
+.brame{
+    background-color: rgb(250, 184, 179);
+}
+.brame p{
+    margin-bottom: 20px;
+}
+iframe{
+    height: 318px;
+}
+footer{
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    height: 50px;
 }
 
